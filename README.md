@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Intoduction
+안녕하세요. 저는 안진영입니다.
+
+## Career
+저는 영남대학교 컴퓨터공학과 학생입니다.
