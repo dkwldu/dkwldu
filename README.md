@@ -20,14 +20,16 @@ Here are some ideas to get you started:
 Hello? This is Jinyoung An. I am learning OSS.
 
 ## Career 🤹‍♀️
-- (23.03 - ) 영남대학교 컴퓨터공학과
+- (23.03 - ) 영남대학교 컴퓨터공학과 YU CSE
+- (24.03 - ) 정보·컴퓨터 과목 교직 이수 과정 Curriculum for Teaching Profession (예정)
 
 ## Interest 💻
-- 
+- 프로그래밍 Programming
+- 교육 Education
+- 게임 & 배드민턴 Game & Badminton
 
-## Contact
-[![mail Badge](https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyjy0826@yu.ac.kr.com)](mailto:jyjy0826@yu.ac.kr.com)
+## Contact 📞
+[![Gmail Badge](https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyjy0826@yu.ac.kr)](mailto:jyjy0826@yu.ac.kr)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dkwldu_/)](https://www.instagram.com/dkwldu_/) 
-<!--[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/chajuhui123)-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
