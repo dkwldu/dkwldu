@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 안진영 Jinyeong An 🌱
 안녕하십니까? 안진영입니다. 저는 오픈소스SW를 배우고 있습니다. <br/>
-Hello? This is Jinyoung An. I am learning OSS.
+Hello? This is Jinyeong An. I am learning OSS.
 
 ## Career 🤹‍♀️
 - (23.03 - ) 영남대학교 컴퓨터공학과 YU CSE
