@@ -21,12 +21,11 @@ Hello? This is Jinyeong An. I am learning OSS.
 
 ## Career 🤹‍♀️
 - (23.03 - ) 영남대학교 컴퓨터공학과 YU CSE
-- (24.03 - ) 정보·컴퓨터 과목 교직 이수 과정 Curriculum for Teaching Profession (예정)
+- (24.03 - ) 정보·컴퓨터 과목 교직 이수 과정 Curriculum for Teaching Profession
 
 ## Interest 💻
 - 프로그래밍 Programming
 - 교육 Education
-- 게임 & 배드민턴 Game & Badminton
 
 ## Contact 📞
 [![Gmail Badge](https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyjy0826@yu.ac.kr)](mailto:jyjy0826@yu.ac.kr)
